@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JDav1
+- 👋 Hi, I’m @JDav1 aka Jordan
 - 👀 I’m interested in vizualizing international finance, Earth Observation of agriculture, geography, and politics
 - 🌱 I’m currently learning Python, APIs, Google Earth Engine, machine learning. Masters Student at CSULB - Masters of Science in Remote Sensing
 - 💞️ I’m looking to collaborate on anything regarding earth observation of agriculture and climate, vizualizing financial information, google earth engine
